@@ -1,1 +1,111 @@
 
+# 🐧 Day 1 — Getting Started with Linux
+
+Today I started learning **Linux** and explored some basic concepts and terminal commands.
+
+## 📌 What is Linux?
+
+Linux is an **open-source operating system** based on the Linux kernel.
+
+It is widely used in:
+
+* 💻 Personal computers
+* 🖥️ Servers
+* ☁️ Cloud platforms
+* 📱 Embedded systems
+* 🛡️ Cybersecurity and networking
+
+## 🧠 What is the Linux Kernel?
+
+The **Linux Kernel** is the core part of a Linux operating system.
+
+It acts as a bridge between **hardware and software** and manages important system resources such as:
+
+* CPU
+* Memory (RAM)
+* Processes
+* Files
+* Hardware devices
+
+In simple words:
+
+**User → Applications → Linux Kernel → Hardware**
+
+## 💻 Basic Linux Commands I Learned
+
+### 1. `pwd` — Print Working Directory
+
+Shows the **current directory/location** where you are working.
+
+```bash
+pwd
+```
+
+Example:
+
+```text
+/home/user
+```
+
+---
+
+### 2. `ls` — List
+
+Displays the files and directories inside the current directory.
+
+```bash
+ls
+```
+
+---
+
+### 3. `cd` — Change Directory
+
+Used to move from one directory to another.
+
+```bash
+cd Documents
+```
+
+---
+
+### 4. `cd ..` — Move to Parent Directory
+
+Moves one level **back** to the parent directory.
+
+```bash
+cd ..
+```
+
+For example:
+
+```text
+/home/user/Documents
+```
+
+Running:
+
+```bash
+cd ..
+```
+
+moves you to:
+
+```text
+/home/user
+```
+
+## 🎯 What I Learned Today
+
+* What Linux is
+* What the Linux Kernel does
+* How to check my current directory using `pwd`
+* How to list files using `ls`
+* How to move between directories using `cd`
+* How to move to the parent directory using `cd ..`
+
+## 🚀 Day 1 Complete!
+
+This is just the beginning of my **Linux learning journey**.
+
+**Next → Day 2 🐧**
