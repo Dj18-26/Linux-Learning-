@@ -8,10 +8,10 @@ I'm learning Linux from the basics and documenting my progress day by day.
 ## 📚 Progress
 
 - [x] Day 1 — Linux Basics
-- [ ] Day 2 — Basic Linux Commands
-- [ ] Day 3 — File Permissions
-- [ ] Day 4 — Users and Groups
-- [ ] Day 5 — Processes
+- [x] Day 2 — file system 
+- [ ] Day 3 — 
+- [ ] Day 4 — 
+- [ ] Day 5 — 
 
 ## 🎯 Goal
 
