@@ -351,6 +351,8 @@ Administrative privileges
 Today I learned how Linux manages users and administrative privileges.
 
 And the best part was understanding `sudo` through my **Avengers vs. Thanos** example. 🦸🐧
+<img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/cd1d7675-9fbb-4eee-b68f-e1939f68e4bd" />
+
 
 **Next → Day 5 🐧**
 
