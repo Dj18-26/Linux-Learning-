@@ -4,7 +4,8 @@
 1. Learn Basic Computer Skills
 Learn basic computer concepts
 Learn the Terminal
-⬇️
+⬇️ <br>
+
 2. Install Linux in VirtualBox
 Ubuntu / Kali Linux
 ⬇️
