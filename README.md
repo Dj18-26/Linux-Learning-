@@ -12,7 +12,8 @@ I'm learning Linux from the basics and documenting my progress day by day.
 - [x] Day 3 — Getting to Know the Linux Terminal & Getting Help
 - [x] Day 4 — sudo power !!!
 - [x] Day 5 — installing the package management
-- [x] Day 6 — Deamons Hunting 
+- [x] Day 6 — Deamons Hunting
+- [x] Day 7 - kill linux process 
 
 ## 🎯 Goal
 
