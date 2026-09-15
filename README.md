@@ -13,7 +13,8 @@ I'm learning Linux from the basics and documenting my progress day by day.
 - [x] Day 4 — sudo power !!!
 - [x] Day 5 — installing the package management
 - [x] Day 6 — Deamons Hunting
-- [x] Day 7 - kill linux process 
+- [x] Day 7 — kill linux process
+- [x] Day 8 — 2 cool web things 
 
 ## 🎯 Goal
 
