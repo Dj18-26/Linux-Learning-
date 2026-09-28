@@ -19,4 +19,4 @@ I'm learning Linux from the basics and documenting my progress day by day.
 
 ## 🎯 Goal
 
-Build a strong foundation in Linux, the command line, and system administration.
+Build a strong foundation in Linux, the command line,and system administration.
