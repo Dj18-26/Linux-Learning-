@@ -1,4 +1,4 @@
-# 🐧 Day 4  — Users, Groups, sudo & sudoers
+# 🐧 Day 4.  — Users, Groups, sudo & sudoers
 
 Today was **Day 4 of my Linux journey**.
 
