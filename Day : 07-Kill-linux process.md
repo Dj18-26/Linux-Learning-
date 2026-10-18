@@ -7,7 +7,7 @@ A **process** is a running instance of a program. Every process has a unique **P
 
 ## 🔍 Finding Processes
 
-### `ps`
+### `ps'
 
 The `ps` command is used to display running processes.
 
