@@ -2,7 +2,7 @@
 
 Today I started learning **Linux** and explored some basic concepts and terminal commands.
 
-## 📌 What is Linux?
+## 📌 What is Linux? 
 
 Linux is an **open-source operating system** based on the Linux kernel.
 
